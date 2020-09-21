@@ -1,0 +1,3 @@
+[submodule "DefectUNetWeightsStorage"]
+	path = DefectUNetWeightsStorage
+	url = https://github.com/chowravc/DefectUNetWeightsStorage.git
